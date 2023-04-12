@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="employees.xsd">
+<Employees>
+  <Employee>
+    <Name>Raneen</Name>
+    <Phones>
+      <Phone Type="home">5029371</Phone>
+      <Phone Type="mobile">011000000000</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>Main St.</Street>
+        <BuildingNumber>11</BuildingNumber>
+        <Region>wengt</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+      <Address>
+        <Street>2nd St.</Street>
+        <BuildingNumber>10</BuildingNumber>
+        <Region>mohamed faried</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>raneen@gmail.com</Email>
+  </Employee>
+  <Employee>
+    <Name>fayza</Name>
+    <Phones>
+      <Phone Type="work">5029371</Phone>
+      <Phone Type="mobile">0110000000001</Phone>
+    </Phones>
+    <Addresses>
+      <Address>
+        <Street>3nd St.</Street>
+        <BuildingNumber>10</BuildingNumber>
+        <Region>wenget</Region>
+        <City>Aleaxandria</City>
+        <Country>Egypt</Country>
+      </Address>
+    </Addresses>
+    <Email>toty@gmail.com</Email>
+  </Employee>
+</Employees>

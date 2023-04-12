@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="employee.css"?>
+<employees>
+	<employee isbn="_1">
+		<name>Name: Raneen</name>
+		<email>Email: raneen@gmail.com</email>
+		<phones>
+			<phone type="mobile">Mobile: 01200000000</phone>
+			<phone type="home">home_phone: 03 5029371</phone>
+		</phones>
+		<addresses>
+			<address>
+			    <country>country: Egypt</country>
+			    <city>city: Alexandria</city>
+				<street>street: 156 st mohamedfaried</street>
+				<building-no>build_no: 6</building-no>
+			</address>
+		</addresses>
+	</employee>
+	<employee isbn="_2">
+		<name>Name: Fayza</name>
+		<email>Email: fayza@gmail.com</email>
+		<phones>
+			<phone type="mobile">Mobile: 0150000000</phone>
+			<phone type="home">home_phone: 003 5029371</phone>
+		</phones>
+		<addresses>
+			<address>
+			    <country>country: Egypt</country>
+			    <city>city: Alexandria</city>
+				<street>street: 156 st mohamedfaried</street>
+				<building-no>build_no: 6</building-no>
+			</address>
+		</addresses>
+	</employee>
+</employees>

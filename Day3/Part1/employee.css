@@ -1,0 +1,24 @@
+Employees{
+    background-image: linear-gradient(to left, rgba(220,0,0,0), rgb(122, 164, 248));
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+Employee{
+    display:flex;
+    flex-direction: column;
+    margin:20px 0px; 
+    width: 60%;
+    box-shadow: 10px 10px lightblue;
+    background-color: rgb(57, 115, 163);
+}
+Name,Phones,Addresses,Email{
+    font-size: larger;
+    margin:5px 30px 5px 30px;
+
+}
+Phones,Addresses{
+    display:flex;
+    flex-direction: column;
+}
